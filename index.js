@@ -3,7 +3,7 @@ divide = () => {
 };
 
 divide();
-let square = () => {
+function square = () => {
   return 2 * 2;
 };
 
