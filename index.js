@@ -3,8 +3,8 @@ divide = () => {
 };
 
 divide();
-square = (a) => {
-  return a * a;
+square = () => {
+  return 2 * 2;
 };
 
 add = (c, d) => {
