@@ -4,7 +4,7 @@ divide = () => {
 
 divide();
 square = () => {
-  return a*= a;
+  return a * a;
 };
 
 add = (c, d) => {
