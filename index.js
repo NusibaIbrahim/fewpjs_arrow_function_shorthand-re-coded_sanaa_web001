@@ -3,7 +3,10 @@ divide = () => {
 };
 
 divide();
-const square = nums.map(x => x ** 2);
+let square = () => {
+  return 2 * 2;
+};
+
 let add = (c, d) => c + d;
 let a = 3;
 let b = 4;
