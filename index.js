@@ -3,11 +3,11 @@ divide = () => {
 };
 
 divide();
-square = () => {
+let square = () => {
   return 2 * 2;
 };
 
-add = (c, d) => c + d;
+let add = (c, d) => c + d;
 let a = 3;
 let b = 4;
 add(a, b);
