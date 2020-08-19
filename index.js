@@ -5,9 +5,9 @@ divide = () => {
 divide();
 function square() {
   return 2 * 2;
-};
+}
 
-let add = (c, d) => c + d;
+function add(c, d) { return  c + d;}
 let a = 3;
 let b = 4;
 add(a, b);
