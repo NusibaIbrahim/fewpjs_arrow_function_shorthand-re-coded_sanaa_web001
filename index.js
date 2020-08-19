@@ -2,6 +2,7 @@ divide = ()=>{
   2000 / 100;
 };
 
+divide();
 square =()=>{} ;
 
 add = (a,b) => {return  a+b}
