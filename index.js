@@ -3,7 +3,7 @@ divide = () => {
 };
 
 divide();
-function square = () => {
+function square() {
   return 2 * 2;
 };
 
