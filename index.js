@@ -4,7 +4,7 @@ divide = ()=>{
 
 square =()=>{} 
 
-add = (a,b) => { a+b}
+add = (a,b) => {return  a+b}
 let a = 3;
 let b = 4;
 add(a,b);
