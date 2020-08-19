@@ -1,8 +1,8 @@
 divide = ()=>{
   2000 / 100;
-}
+};
 
-square =()=>{} 
+square =()=>{} ;
 
 add = (a,b) => {return  a+b}
 let a = 3;
