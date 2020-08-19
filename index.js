@@ -3,7 +3,9 @@ divide = () => {
 };
 
 divide();
-square = () => {};
+square = () => {
+  return a*= a;
+};
 
 add = (c, d) => {
   return c + d;
