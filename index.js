@@ -7,9 +7,7 @@ square = () => {
   return 2 * 2;
 };
 
-add = (c, d) => {
-  return c + d;
-};
+add = (c, d) => c + d;
 let a = 3;
 let b = 4;
 add(a, b);
